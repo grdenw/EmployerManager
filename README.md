@@ -14,14 +14,14 @@ Dzięki niej szybko poznasz bardziej szczegółowe dane personalne każdego z pr
 
 ### Wyświetlanie
 
-![List](/List.png?raw=true "Lista użytkowników")
+![List](/List.PNG?raw=true "Lista użytkowników")
 
 
 ### Tworzenie
 
-![Create](/Create.png?raw=true "Stwórz nowego użytkownika")
+![Create](/Create.PNG?raw=true "Stwórz nowego użytkownika")
 
 
 ### Tworzenie
 
-![Edit](/Edit.png?raw=true "Edytuj dane użytkownika")
+![Edit](/Edit.PNG?raw=true "Edytuj dane użytkownika")
