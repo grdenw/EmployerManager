@@ -22,6 +22,6 @@ Dzięki niej szybko poznasz bardziej szczegółowe dane personalne każdego z pr
 ![Create](/Create.PNG?raw=true "Stwórz nowego użytkownika")
 
 
-### Tworzenie
+### Edycja
 
 ![Edit](/Edit.PNG?raw=true "Edytuj dane użytkownika")
